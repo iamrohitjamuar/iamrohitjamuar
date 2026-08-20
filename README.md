@@ -7,7 +7,7 @@ Specializing in distributed systems design, microservices architecture, cloud-na
 
 ### 🚀 About Me
 
-* 💻 Nearly 8 years of engineering experience architecting scalable, fault-tolerant, and high-availability backend systems[cite: 1].
+* 💻 Over 8.4 years of engineering experience architecting scalable, fault-tolerant, and high-availability backend systems.
 * 💳 Domain expertise in **Distributed Payment Systems**, **API Gateway Architectures**, and **Transaction Orchestration**[cite: 1].
 * 🛠️ Proven track record leading engineering teams, mentoring developers, driving SOLID design principles, and optimizing CI/CD workflows[cite: 1].
 * ☁️ Cloud-native practitioner deploying containerized applications with Docker and Kubernetes on Google Cloud Platform[cite: 1].
